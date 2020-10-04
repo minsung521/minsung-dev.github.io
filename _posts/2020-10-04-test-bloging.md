@@ -1,5 +1,5 @@
 ---
-title: Testing post.
+title: First post.
 autior: minsung
 date: 2020-10-04 12:48:50 +0900
 categories: [Blogging, Tutorial]

@@ -4,19 +4,7 @@ autior: minsung
 date: 2020-10-04 12:48:50 +0900
 categories: [Blogging, Tutorial]
 tags: [Begins] # TAG names should always be lowercase
-# Defaults
-defaults:
-  # _posts
-  - scope:
-      path: ""
-      type: posts
-    values:
-      layout: single
-      author_profile: true
-      read_time: true
-      comments: true
-      share: true
-      related: true
+comments: true
 ---
 
 ## 블로그 운영 시작

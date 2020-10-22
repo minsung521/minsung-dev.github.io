@@ -17,7 +17,7 @@ description: # used by seo meta and the atom feed
   and focuses on text presentation.
 
 # Replace with the website url, e.g. 'https://username.github.io'
-url: "protocol://domain"
+url: "https://minsung-dev.github.io"
 
 author: Minsung # change to your full name
 
@@ -52,7 +52,7 @@ baseurl: ""
 timezone: Asia/Seoul
 
 google_analytics:
-  id: # Fill with your Google Analytics ID
+  id: "UA-163804486-3" # Fill with your Google Analytics ID
   pv:
     # The Google Analytics pageviews switch.
     # DO NOT enable it unless you know how to deploy the Google Analytics superProxy.

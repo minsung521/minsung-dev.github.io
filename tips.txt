@@ -1,2 +1,0 @@
-로컬 실행  -  bash tools/run.sh
-* disqus, google analytics 적용됨.
